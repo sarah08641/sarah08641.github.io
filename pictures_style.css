@@ -1,0 +1,8 @@
+body {
+    background-color: bisque;
+} 
+/* star will apply to all so this can be the default color */
+* { 
+    color:brown;
+    text-align: center;
+}
